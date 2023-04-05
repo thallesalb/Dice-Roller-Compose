@@ -1,2 +1,2 @@
 # Dice-Roller-Compose
-Leraning Jetpack Compose
+Learning Jetpack Compose
